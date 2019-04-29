@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SiteCoreWebSite,,,2019-04-29 13:00:03,2019-04-29 13:00:04,0.837s,FAILED
+,,,,,,
+Test Cases/Launch Website,,,2019-04-29 13:00:03,2019-04-29 13:00:04,0.575s,FAILED
+"openBrowser("""")",,,2019-04-29 13:00:04,2019-04-29 13:00:04,0.255s,FAILED

@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SiteCoreWebSite,Firefox 66.0,,2019-04-29 12:00:58,2019-04-29 12:01:15,16.559s,PASSED
+,,,,,,
+Test Cases/Launch Website,Firefox 66.0,,2019-04-29 12:00:59,2019-04-29 12:01:15,16.131s,PASSED
+"openBrowser("""")",Firefox 66.0,,2019-04-29 12:00:59,2019-04-29 12:01:05,5.529s,PASSED
+"navigateToUrl(""https://sit-www.urbanutilities.com.au/"")",Firefox 66.0,,2019-04-29 12:01:05,2019-04-29 12:01:09,4.004s,PASSED
+maximizeWindow(),Firefox 66.0,,2019-04-29 12:01:09,2019-04-29 12:01:09,0.017s,PASSED
+"mouseOver(findTestObject(""Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Residential""), STOP_ON_FAILURE)",Firefox 66.0,,2019-04-29 12:01:09,2019-04-29 12:01:09,0.182s,PASSED
+Thread.sleep(1000),Firefox 66.0,,2019-04-29 12:01:09,2019-04-29 12:01:10,1.009s,PASSED
+"click(findTestObject(""Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Payment options""))",Firefox 66.0,,2019-04-29 12:01:10,2019-04-29 12:01:13,3.244s,PASSED
+"click(findTestObject(""Object Repository/SiteCoreWebSite/Page_Payment options - Queensland Urban Utilities/a_Apply online""))",Firefox 66.0,,2019-04-29 12:01:13,2019-04-29 12:01:14,1.051s,PASSED
+closeBrowser(),Firefox 66.0,,2019-04-29 12:01:14,2019-04-29 12:01:15,0.603s,PASSED

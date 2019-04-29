@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SiteCoreWebSite" time="20" tests="1" failures="0" errors="0">
+   <testsuite name="SiteCoreWebSite" tests="1" failures="0" errors="0" time="20" timestamp="2019-04-29 11:56:57" hostname="kulwindersingh - 10.40.60.250" id="Test Suites/SiteCoreWebSite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/kulwindersingh/Katalon Studio/SiteCoreWebSite/Reports/SiteCoreWebSite/20190429_115654"/>
+         <property name="logFiles" value="/Users/kulwindersingh/Katalon Studio/SiteCoreWebSite/Reports/SiteCoreWebSite/20190429_115654/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="kulwindersingh - 10.40.60.250"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="6.1.1.1"/>
+         <property name="browser" value="Firefox 66.0"/>
+         <property name="hostAddress" value="10.40.60.250"/>
+         <property name="sessionId" value="4c68df97-b2ee-994a-ac1a-fb81403dc4e6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Launch Website" classname="Test Cases/Launch Website" status="PASSED">
+         <system-out><![CDATA[2019-04-29 11:56:58 - [TEST_CASE][PASSED] - Test Cases/Launch Website: Test Cases/Launch Website
+
+2019-04-29 11:56:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-29 11:56:59 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-29 11:56:59 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-04-29 11:57:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-29 11:57:04 - [TEST_STEP][PASSED] - navigateToUrl("https://sit-www.urbanutilities.com.au/"): Navigate to 'https://sit-www.urbanutilities.com.au/' successfully
+
+2019-04-29 11:57:09 - [MESSAGE][PASSED] - Navigate to 'https://sit-www.urbanutilities.com.au/' successfully
+
+2019-04-29 11:57:09 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-04-29 11:57:10 - [MESSAGE][PASSED] - Current window maximized
+
+2019-04-29 11:57:10 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Residential"), STOP_ON_FAILURE): Object: 'Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Residential' is hovered
+
+2019-04-29 11:57:11 - [MESSAGE][PASSED] - Object: 'Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Residential' is hovered
+
+2019-04-29 11:57:11 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2019-04-29 11:57:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Payment options")): Object: 'Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Payment options' is clicked on
+
+2019-04-29 11:57:16 - [MESSAGE][PASSED] - Object: 'Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Payment options' is clicked on
+
+2019-04-29 11:57:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/SiteCoreWebSite/Page_Payment options - Queensland Urban Utilities/a_Apply online")): Object: 'Object Repository/SiteCoreWebSite/Page_Payment options - Queensland Urban Utilities/a_Apply online' is clicked on
+
+2019-04-29 11:57:17 - [MESSAGE][PASSED] - Object: 'Object Repository/SiteCoreWebSite/Page_Payment options - Queensland Urban Utilities/a_Apply online' is clicked on
+
+2019-04-29 11:57:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-29 11:57:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-29 11:56:57 - [TEST_SUITE][PASSED] - SiteCoreWebSite: Test Cases/Launch Website]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

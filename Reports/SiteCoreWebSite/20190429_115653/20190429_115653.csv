@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SiteCoreWebSite,Chrome 73.0.3683.103,,2019-04-29 11:56:57,2019-04-29 11:57:13,16.547s,PASSED
+,,,,,,
+Test Cases/Launch Website,Chrome 73.0.3683.103,,2019-04-29 11:56:57,2019-04-29 11:57:13,16.099s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-29 11:56:58,2019-04-29 11:57:01,3.291s,PASSED
+"navigateToUrl(""https://sit-www.urbanutilities.com.au/"")",Chrome 73.0.3683.103,,2019-04-29 11:57:01,2019-04-29 11:57:06,5.231s,PASSED
+maximizeWindow(),Chrome 73.0.3683.103,,2019-04-29 11:57:06,2019-04-29 11:57:07,0.753s,PASSED
+"mouseOver(findTestObject(""Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Residential""), STOP_ON_FAILURE)",Chrome 73.0.3683.103,,2019-04-29 11:57:07,2019-04-29 11:57:08,0.462s,PASSED
+Thread.sleep(1000),Chrome 73.0.3683.103,,2019-04-29 11:57:08,2019-04-29 11:57:09,1.010s,PASSED
+"click(findTestObject(""Object Repository/SiteCoreWebSite/Page_Home - Queensland Urban Utilities/a_Payment options""))",Chrome 73.0.3683.103,,2019-04-29 11:57:09,2019-04-29 11:57:12,3.061s,PASSED
+"click(findTestObject(""Object Repository/SiteCoreWebSite/Page_Payment options - Queensland Urban Utilities/a_Apply online""))",Chrome 73.0.3683.103,,2019-04-29 11:57:12,2019-04-29 11:57:13,1.427s,PASSED
+closeBrowser(),Chrome 73.0.3683.103,,2019-04-29 11:57:13,2019-04-29 11:57:13,0.299s,PASSED
